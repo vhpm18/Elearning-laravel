@@ -1,0 +1,1494 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comp",
+				"component"
+			],
+			[
+				"produc",
+				"producto\t(Productos.vue)"
+			],
+			[
+				"pro",
+				"producto"
+			],
+			[
+				"ca",
+				"cantidad"
+			],
+			[
+				"fil",
+				"fieldset\tTag"
+			],
+			[
+				"inline-",
+				"inline-grid\tdisplay"
+			],
+			[
+				"aumentar",
+				"aumentarAsing\t(store.js)"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"da",
+				"datosPersona"
+			],
+			[
+				"ge",
+				"get\t.get()"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-family: 〔property〕"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"TH",
+				"THEAD\tTag"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"d-inline-flex \tBootstrap 4 Class"
+			],
+			[
+				"mt",
+				"mt-auto \tBootstrap 4 Class"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"loa",
+				"loadData"
+			],
+			[
+				"incl",
+				"includes\t(filtros.html)"
+			],
+			[
+				"usuari",
+				"usuarios"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"no",
+				"noValid"
+			],
+			[
+				"conta",
+				"contrasena"
+			],
+			[
+				"cont",
+				"contrasena"
+			],
+			[
+				"co",
+				"contactos"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pos",
+				"pos\tposition: ${1:relative};"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"vuec",
+				"vuec\tVue component"
+			],
+			[
+				"cur",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"tare",
+				"tarea"
+			],
+			[
+				"titu",
+				"titulo"
+			],
+			[
+				"busqu",
+				"busqueda"
+			],
+			[
+				"min",
+				"minimo"
+			],
+			[
+				"so",
+				"sort\t( compareFn: Function ): Array Array"
+			],
+			[
+				"an",
+				"antiguedad"
+			],
+			[
+				"spli",
+				"description-splice\tArray"
+			],
+			[
+				"parent",
+				"parentMessage"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"con",
+				"continent\t(continent.blade.php)"
+			],
+			[
+				"n",
+				"none\tdisplay"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"Ro",
+				"Route\t(web.php)"
+			],
+			[
+				"clas",
+				"class\tclass …"
+			],
+			[
+				"Con",
+				"Continent\t(MainController.php)"
+			],
+			[
+				"coun",
+				"country\t(MainController.php)"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"m",
+				"m-5 \tBootstrap 4 Class"
+			],
+			[
+				"Co",
+				"Country\t(Country.php)"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"pub",
+				"public_path〔function〕"
+			],
+			[
+				"Ma",
+				"MainController@home"
+			],
+			[
+				"spri",
+				"sprites.lib.php"
+			],
+			[
+				"the",
+				"themes"
+			],
+			[
+				"php",
+				"phpmyadmin"
+			],
+			[
+				"cre",
+				"created_at\t(Destination.php)"
+			],
+			[
+				"creat",
+				"created\t(DestinationController.php)"
+			],
+			[
+				"Des",
+				"DestinationController\t(DestinationController.php)"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"PB",
+				"pb-2 \tBootstrap 4 Class"
+			],
+			[
+				"justify-content-",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"ml-",
+				"m-lg-3 \tBootstrap 4 Class"
+			],
+			[
+				"ml",
+				"ml-auto \tBootstrap 4 Class"
+			],
+			[
+				"mb",
+				"mb-2 \tBootstrap 4 Class"
+			],
+			[
+				"jus",
+				"justify-content-sm-center \tBootstrap 4 Class"
+			],
+			[
+				"p",
+				"p-2 \tBootstrap 4 Class"
+			],
+			[
+				"pb",
+				"pb-4 \tBootstrap 4 Class"
+			],
+			[
+				"partials",
+				"partials/"
+			],
+			[
+				"class",
+				"class=〔attribute〕"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"M",
+				"Model\t(DestinationdFactory.php)"
+			],
+			[
+				"App",
+				"App\\User〔class〕"
+			],
+			[
+				"deti",
+				"destination_id"
+			],
+			[
+				"mt-",
+				"mt-5 \tBootstrap 4 Class"
+			],
+			[
+				"align-tet",
+				"align-items-sm-center \tBootstrap 4 Class"
+			],
+			[
+				"al",
+				"align-content-center \tBootstrap 4 Class"
+			],
+			[
+				"mr",
+				"mr-1 \tBootstrap 4 Class"
+			],
+			[
+				"justify-c",
+				"justify-content-sm-center \tBootstrap 4 Class"
+			],
+			[
+				"ju",
+				"justify-content-md-start \tBootstrap 4 Class"
+			],
+			[
+				"pr",
+				"pr-1 \tBootstrap 4 Class"
+			],
+			[
+				"pl",
+				"pl-1 \tBootstrap 4 Class"
+			],
+			[
+				"card-",
+				"card-body"
+			],
+			[
+				"car",
+				"card\t(index.html)"
+			],
+			[
+				"na",
+				"navbar\t(index.html)"
+			],
+			[
+				"b",
+				"btn \tBootstrap 4 Class"
+			],
+			[
+				"v-e",
+				"v-else\t<div v-else>"
+			],
+			[
+				"le",
+				"length\t: unsigned long FileList"
+			],
+			[
+				"vue-",
+				"vue-resource.js"
+			],
+			[
+				"bnt",
+				"btn-danger \tBootstrap 4 Class"
+			],
+			[
+				"com",
+				"completado"
+			],
+			[
+				"lin",
+				"line-through\ttext-decoration"
+			],
+			[
+				"cu",
+				"cursor\tproperty"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"fo",
+				"font\tTag"
+			],
+			[
+				"ta",
+				"tareas"
+			],
+			[
+				"btn",
+				"btn-primary \tBootstrap 4 Class"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"docu",
+				"docvue\tHTML w/ VueJS"
+			],
+			[
+				"Vue",
+				"description-newValue\tStorageEvent"
+			],
+			[
+				"src",
+				"scripts\t: HTMLCollection Document"
+			],
+			[
+				"scrip",
+				"script"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"vu",
+				"vuejs\t(vue.js)"
+			],
+			[
+				"tar",
+				"tarea"
+			],
+			[
+				"remo",
+				"remove\t.remove()"
+			],
+			[
+				"trim",
+				"trim\t(): string String"
+			],
+			[
+				"tares",
+				"tareas"
+			],
+			[
+				"submit",
+				"submit"
+			],
+			[
+				"Log",
+				"Log::info\tLog an informational message to the logs."
+			],
+			[
+				"P",
+				"Presenters〔namespace〕"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Mes",
+				"MessagesInterface\t(MessagesInterface.php)"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"mes",
+				"messages〔variable〕"
+			],
+			[
+				"Ca",
+				"Cache::flush\tRemove all items from the cache."
+			],
+			[
+				"req",
+				"request〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"LIVE RELOAD",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"vue",
+				"Snippet: Vue component"
+			],
+			[
+				"new file",
+				"ANF: New File"
+			],
+			[
+				"new Dire",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LIVER",
+				"LiveReload: Self test"
+			],
+			[
+				"Snippet: vu",
+				"Snippet: HTML w/ VueJS"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"live relo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"prettif",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pretti",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"da ui",
+				"DA UI: Widget Settings"
+			],
+			[
+				"a file se",
+				"A File Icon: Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"a file icon",
+				"A File Icon: Revert to a Freshly Installed State"
+			],
+			[
+				"A File Icon",
+				"A File Icon: Changelog"
+			],
+			[
+				"file icon",
+				"A File Icon: Settings"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"d",
+				"DA UI: Theme Settings"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"us",
+				"UI: Select Color Scheme"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Environment"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"liverelo",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"tab",
+				"Snippet: tabs"
+			],
+			[
+				"nav",
+				"Snippet: nav"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liverelaod",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"relo",
+				"Browser Integration: Reload"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: text",
+				"Snippet: Execute an SQL statement and return the boolean result."
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"migrate",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"migrat",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"hti",
+				"BracketHighlighter: Tag Settings"
+			],
+			[
+				"subli",
+				"SublimeGit: Documentation"
+			],
+			[
+				"Snippet: ",
+				"Snippet: success"
+			],
+			[
+				"const",
+				"Snippet: function __construct"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"php artisan serve",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/victorh/Project/Elearning"
+	],
+	"file_history":
+	[
+		"/home/victorh/Project/Elearning/package.json",
+		"/home/victorh/Project/Elearning/resources/js/app.js",
+		"/home/victorh/Project/Elearning/composer.json",
+		"/home/victorh/Project/Elearning/resources/views/welcome.blade.php",
+		"/home/victorh/Project/Elearning/.env",
+		"/home/victorh/Project/Elearning/config/app.php",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-06/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-06/src/components/Carro.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-06/src/store/store.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-06/src/components/Productos.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-04/src/components/Tareas.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-04/src/store/store.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-04/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-06/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-03/src/store/store.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-03/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-05/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-05/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-05/src/store/store.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-05/src/components/contador.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-04/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-03/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-02/src/store/store.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-03/package.json",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-01-vue-cli/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-02/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-02/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/Manejo-d-estados/clase-02/src/components/Contador.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-03/src/components/Elemento.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-03/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-02/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-02/src/components/Persona.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-02/package.json",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-25/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-01-vue-cli/src/App.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-25/src/components/Persona.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-25/src/main.js",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-25/package.json",
+		"/home/victorh/Project/JS/VUE-JS/src/components/Personas.vue",
+		"/home/victorh/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/victorh/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-01-vue-cli/src/components/HelloWorld.vue",
+		"/home/victorh/Project/JS/VUE-JS/Vue.js-development-workflow/clase-01-vue-cli/src/assets/logo.png",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-13/tables.html",
+		"/home/victorh/Project/JS/VUE-JS/css/style.css",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-13/modelo-table.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/ejercicios-componentes.html/componentes.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-06/filtros.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-09/ajax-vue-resource-axios.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-12/custom-input-component.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-12/inut-2.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-11/ Custom-input-components.html",
+		"/home/victorh/Project/JS/VUE-JS/23-custom-input-components.mp4",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-10/dynamic-components.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-09/componentes-dentro-d-componentes.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-08/component-comunication.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-05/slotd-vue.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-07/custom-event.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-06/scope-slot.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-01/intro-component.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-01/componentes-dos.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-02/component-template.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-05/propiedades-computadas.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-04/Validacion-d-propiedades.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-03/components-properties.html",
+		"/home/victorh/Project/JS/VUE-JS/vue-componet/clase-02/component-template-2.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-08/ajax-vue-resource.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-07/data-binding.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-08",
+		"/home/victorh/Project/JS/VUE-JS/clase-04/eventos.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-03/renderizado-d-listas.html",
+		"/home/victorh/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/victorh/Dropbox/Notes/.brain/Inbox.note",
+		"/home/victorh/Project/JS/VUE-JS/clase-02/directivas-incluidas.html",
+		"/home/victorh/Project/JS/VUE-JS/clase-01/vue-data-binding.html",
+		"/home/victorh/Project/JS/VUE-JS/js/vue-data-binding.html",
+		"/home/victorh/Dropbox/Notes/code.note",
+		"/home/victorh/.config/sublime-text-3/Packages/User/Notes.sublime-settings",
+		"/home/victorh/Dropbox/Notes/information.note",
+		"/home/victorh/Project/chatbot/resources/views/welcome.blade.php",
+		"/home/victorh/Project/chatbot/app/Conversations/ExampleConversation.php",
+		"/home/victorh/Project/chatbot/app/Http/Controllers/BotManController.php",
+		"/home/victorh/Project/chatbot/routes/botman.php",
+		"/home/victorh/Project/chatbot/routes/web.php",
+		"/home/victorh/Project/chatbot/.env",
+		"/home/victorh/Project/breadcrumbs/app/Model/Country.php",
+		"/home/victorh/Project/breadcrumbs/routes/breadcrumbs.php",
+		"/home/victorh/Project/breadcrumbs/resources/views/country.blade.php",
+		"/home/victorh/Project/breadcrumbs/database/factories/CityFactory.php",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2018_10_25_011356_create_countries_table.php",
+		"/home/victorh/Project/breadcrumbs/app/Model/Continent.php",
+		"/home/victorh/Project/breadcrumbs/app/Http/Controllers/MainController.php",
+		"/home/victorh/Project/breadcrumbs/resources/views/continent.blade.php",
+		"/home/victorh/Project/breadcrumbs/resources/views/home.blade.php",
+		"/home/victorh/Project/breadcrumbs/resources/views/city.blade.php",
+		"/home/victorh/Project/breadcrumbs/app/Model/City.php",
+		"/home/victorh/Project/breadcrumbs/.env",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2018_10_25_011402_create_cities_table.php",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2018_10_25_011402_create_citys_table.php",
+		"/home/victorh/Project/breadcrumbs/database/seeds/DatabaseSeeder.php",
+		"/home/victorh/Project/breadcrumbs/routes/web.php",
+		"/home/victorh/Project/breadcrumbs/config/breadcrumbs.php",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2018_10_25_011338_create_continents_table.php",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/victorh/Project/breadcrumbs/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/victorh/Project/breadcrumbs/vendor/davejamesmiller/laravel-breadcrumbs/views/bootstrap4.blade.php",
+		"/home/victorh/Project/breadcrumbs/composer.json",
+		"/home/victorh/Project/breadcrumbs/app/Http/Controllers/CountryController.php",
+		"/home/victorh/Project/breadcrumbs/app/Model/User.php",
+		"/home/victorh/Project/breadcrumbs/config/auth.php",
+		"/home/victorh/Documentos/SO/chrome.sh",
+		"/home/victorh/Documentos/SO/gitkraken.sh",
+		"/home/victorh/Project/phpmyadmin/index.php",
+		"/home/victorh/Project/phpmyadmin/themes/sprites.css.php",
+		"/home/victorh/Project/phpmyadmin/js/ajax.js",
+		"/home/victorh/Project/phpmyadmin/server_databases.php",
+		"/home/victorh/Project/phpmyadmin/themes/metro/sprites.lib.php",
+		"/home/victorh/Project/phpmyadmin/phpmyadmin.css.php",
+		"/home/victorh/Project/phpmyadmin/templates/navigation/logo.phtml",
+		"/home/victorh/Project/phpmyadmin/libraries/classes/Navigation/NavigationHeader.php",
+		"/home/victorh/Project/phpmyadmin/libraries/Header.class.php",
+		"/home/victorh/Project/phpmyadmin/js/codemirror/lib/codemirror.css",
+		"/home/victorh/Project/phpmyadmin/print.css",
+		"/home/victorh/Project/phpmyadmin/themes/metro/css/common.css.php",
+		"/home/victorh/Project/phpmyadmin/libraries/Theme.class.php",
+		"/home/victorh/.config/composer/vendor/cpriego/valet-linux/server.php",
+		"/home/victorh/Project/phpmyadmin/libraries/Config.class.php",
+		"/home/victorh/Project/phpmyadmin/libraries/Response.class.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 170.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 198.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jotter":
+	{
+		"height": 198.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Elearning.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"Vue.js-development-workflow/clase-01-vue-cli/src/main.js"
+			],
+			[
+				"style",
+				"css/style.css"
+			],
+			[
+				"axios",
+				"clase-09/ajax-vue-resource-axios.html"
+			],
+			[
+				"city",
+				"app/Model/City.php"
+			],
+			[
+				"Coun",
+				"app/Model/Country.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"config/",
+				"config/breadcrumbs.php"
+			],
+			[
+				"Main",
+				"app/Http/Controllers/MainController.php"
+			],
+			[
+				"Cont",
+				"app/Model/Continent.php"
+			],
+			[
+				"ajax.js",
+				"js/ajax.js"
+			],
+			[
+				"server",
+				"server_databases.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"phpmyadmin",
+				"phpmyadmin.css.php"
+			],
+			[
+				"codemirror.css",
+				"js/codemirror/lib/codemirror.css"
+			],
+			[
+				"print.css",
+				"print.css"
+			],
+			[
+				"Header.class.php",
+				"libraries/Header.class.php"
+			],
+			[
+				"common.css.php",
+				"themes/metro/css/common.css.php"
+			],
+			[
+				"Theme.class.php",
+				"libraries/Theme.class.php"
+			],
+			[
+				"config.sample.inc.php",
+				"config.sample.inc.php"
+			],
+			[
+				"res",
+				"libraries/Response.class.php"
+			],
+			[
+				"Scripts",
+				"libraries/classes/Scripts.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"Header.php",
+				"libraries/classes/Header.php"
+			],
+			[
+				"norma",
+				"normalization.php"
+			],
+			[
+				"ThemeManager",
+				"libraries/classes/ThemeManager.php"
+			],
+			[
+				"dash.bl",
+				"resources/views/layouts/dash.blade.php"
+			],
+			[
+				"route",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"Desti",
+				"app/Model/Destination.php"
+			],
+			[
+				"destina",
+				"app/Model/Destinationd.php"
+			],
+			[
+				"dest",
+				"app/Model/Destination.php"
+			],
+			[
+				"dashbo",
+				"public/css/dashboad.css"
+			],
+			[
+				"nav",
+				"node_modules/bootstrap/scss/_navbar.scss"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"welcm",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"register",
+				"app/Http/Controllers/Auth/RegisterController.php"
+			],
+			[
+				"evene",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"appSeri",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"user\\inde",
+				"resources/views/users/index.blade.php"
+			],
+			[
+				"user",
+				"app/Entities/User.php"
+			],
+			[
+				"message/s",
+				"resources/views/messages/show.blade.php"
+			],
+			[
+				"messa",
+				"app/Entities/Message.php"
+			],
+			[
+				"appSer",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"mess",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"repo",
+				"vendor/laravel/framework/src/Illuminate/Cache/Repository.php"
+			],
+			[
+				"me",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"send",
+				"app/Listeners/SendAutoresponder.php"
+			],
+			[
+				"cache",
+				"config/cache.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"User",
+				"app/Entities/User.php"
+			],
+			[
+				"login",
+				"app/Http/Controllers/Auth/LoginController.php"
+			],
+			[
+				"lay",
+				"vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php"
+			],
+			[
+				"event",
+				"app/Providers/EventServiceProvider.php"
+			],
+			[
+				"mes",
+				"app/Http/Controllers/MessageController.php"
+			],
+			[
+				"mail",
+				"app/Mail/Mailtrap.php"
+			],
+			[
+				"taG",
+				"app/Entities/Tag.php"
+			],
+			[
+				"taggables",
+				"database/migrations/2018_08_12_131855_create_taggables_table.php"
+			],
+			[
+				"no",
+				"app/Entities/Note.php"
+			],
+			[
+				"u",
+				"app/Entities/User.php"
+			],
+			[
+				"note",
+				"app/Entities/Note.php"
+			],
+			[
+				"notes",
+				"database/migrations/2018_08_06_161312_create_notes_table.php"
+			],
+			[
+				"blog",
+				"resources/views/layouts/blog.blade.php"
+			],
+			[
+				"foo",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"registerU",
+				"app/Http/Requests/RegisterUserResquest.php"
+			],
+			[
+				"role",
+				"app/Entities/Role.php"
+			],
+			[
+				"ro",
+				"app/Entities/Role.php"
+			],
+			[
+				"userC",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"edit",
+				"resources/views/users/edit.blade.php"
+			],
+			[
+				"create",
+				"resources/views/messages/create.blade.php"
+			],
+			[
+				"alter_messages_table",
+				"database/migrations/2018_08_06_111940_alter_messages_table.php"
+			],
+			[
+				"AccessDeniedHttpException",
+				"vendor/symfony/http-kernel/Exception/AccessDeniedHttpException.php"
+			],
+			[
+				"HandlesAuthorization.php",
+				"vendor/laravel/framework/src/Illuminate/Auth/Access/HandlesAuthorization.php"
+			],
+			[
+				"sho",
+				"resources/views/users/show.blade.php"
+			],
+			[
+				"blo",
+				"resources/views/layouts/blog.blade.php"
+			],
+			[
+				"\\Illuminate\\Auth\\Access\\AuthorizationException",
+				"vendor/laravel/framework/src/Illuminate/Auth/Access/AuthorizationException.php"
+			],
+			[
+				"Illuminate\\Auth\\Access",
+				"vendor/laravel/framework/src/Illuminate/Auth/Access/HandlesAuthorization.php"
+			],
+			[
+				"HandlesAuthorization",
+				"vendor/laravel/framework/src/Illuminate/Auth/Access/HandlesAuthorization.php"
+			],
+			[
+				"check",
+				"app/Http/Middleware/CheckRoles.php"
+			],
+			[
+				"auth",
+				"app/Providers/AuthServiceProvider.php"
+			],
+			[
+				"UserC",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"UpdateUserRequest",
+				"app/Http/Requests/UpdateUserRequest.php"
+			],
+			[
+				"assigned",
+				"database/migrations/2018_08_04_224617_create_assigned_roles_table.php"
+			],
+			[
+				"na",
+				"resources/views/layouts/nav/nav.blade.php"
+			],
+			[
+				"coma",
+				"comandos.txt"
+			],
+			[
+				"kerne",
+				"app/Http/Kernel.php"
+			],
+			[
+				"kern",
+				"vendor/symfony/http-kernel/KernelInterface.php"
+			],
+			[
+				"Chec",
+				"app/Http/Middleware/checkRoles.php"
+			],
+			[
+				"regis",
+				"resources/argon/examples/register.html"
+			],
+			[
+				"show",
+				"resources/views/messages/show.blade.php"
+			],
+			[
+				"app.bla",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"app.bl",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"contro",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"validate",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Validation/ValidatesRequests.php"
+			],
+			[
+				"veri",
+				"app/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"ver",
+				"app/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"pages",
+				"app/Http/Controllers/PagesController.php"
+			],
+			[
+				"salu",
+				"resources/views/saludo.blade.php"
+			],
+			[
+				"welco",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"vote",
+				"app/Http/Controllers/VotesController.php"
+			],
+			[
+				"list",
+				"resources/views/tickets/list.blade.php"
+			],
+			[
+				"i",
+				"resources/views/tickets/partials/item.blade.php"
+			],
+			[
+				"detal",
+				"resources/views/tickets/details.blade.php"
+			],
+			[
+				"deta",
+				"resources/views/tickets/details.blade.php"
+			],
+			[
+				"",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"ti",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"TiContro",
+				"app/Http/Controllers/TicketsController.php"
+			],
+			[
+				"item",
+				"resources/views/tickets/partials/item.blade.php"
+			],
+			[
+				"Ticket",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"vali",
+				"resources/lang/en/validation.php"
+			],
+			[
+				"ticket",
+				"app/Entities/TicketComment.php"
+			],
+			[
+				"tick",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"tic",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"Ticke",
+				"app/Entities/Ticket.php"
+			],
+			[
+				"Tic",
+				"app/Entities/TicketComment.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

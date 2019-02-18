@@ -4,7 +4,7 @@
 <img class="img-responsive" src="{{ url('storage/courses/'. $course->picture) }}" alt="{{ $course->name }}">
 
 @component('mail::button',['url' =>url('/')])
-{{ __("Ir al curso :course",['course' => course->name]) }}
+{{ __("Ir al curso :course",['course' => $course->name]) }}
 @endcomponent
 {{ __("Gracias") }},<br/>
 {{ config('app.name') }}

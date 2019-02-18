@@ -6,10 +6,10 @@
         <v-server-table ref="table" :columns="columns" :url="url" :options="options">
             <div slot="status" slot-scope="props" class="badge">
                 <i v-if="parseInt(props.row.status) === 1" class="p-2 badge badge-success">
-					<i class="fa fa-check"></i> {{ formattedStatus(props.row.status)}}
+                    <i class="fa fa-check"></i> {{ formattedStatus(props.row.status)}}
                 </i>
                 <i v-else class="p-2 badge badge-danger">
-					<i class="fa fa-ban"></i> {{ formattedStatus(props.row.status)}} </i>
+                    <i class="fa fa-ban"></i> {{ formattedStatus(props.row.status)}} </i>
                 </i>
             </div>
             <div slot="activate_deactivate" slot-scope="props">
@@ -54,6 +54,11 @@ export default {
             options: {
                 filterByColumn: true,
                 perPage: 10,
+                texts: {
+                    filter: "Filtrar:",
+                    filterBy: 'Filtrar por {column}',
+                    count:' '
+                },
                 perPageValues: ['10', '25', '50', '100', '500'],
                 headings: {
                     id: 'ID',
@@ -68,11 +73,11 @@ export default {
                 filterable: ['name'],
                 requestFunction: function(data) {
                     return window.axios.get(this.url, {
-                            params: data
-                        })
-                        .catch(function(e) {
-                            this.dispatch('error', e);
-                        }.bind(this));
+                        params: data
+                    })
+                    .catch(function(e) {
+                        this.dispatch('error', e);
+                    }.bind(this));
                 }
             }
         };
@@ -83,10 +88,10 @@ export default {
         },
         formattedStatus(status) {
             const statuses = [
-                null,
-                'Publicado',
-                'Pendiente',
-                'Rechazado'
+            null,
+            'Publicado',
+            'Pendiente',
+            'Rechazado'
             ];
             return statuses[status];
         },
@@ -94,11 +99,11 @@ export default {
             this.processing = true;
             setTimeout(() => {
                 this.$http.post(
-                        '/admin/courses/updateStatus', { courseId: row.id, status: newStatus }, {
-                            headers: {
-                                'x-csrf-token': document.head.querySelector('meta[name=csrf-token]').content
-                            }
+                    '/admin/courses/updateStatus', { courseId: row.id, status: newStatus }, {
+                        headers: {
+                            'x-csrf-token': document.head.querySelector('meta[name=csrf-token]').content
                         }
+                    }
                     ).then(response => {
                         this.$refs.table.refresh();
                     })
@@ -108,15 +113,11 @@ export default {
                     .finally(() => {
                         this.processing = false;
                     });
-                this.processing = false;
-            }, 1500)
-
+                    this.processing = false;
+                }, 1500)
         },
-
-
     }
 }
-
 </script>
 <style lang="css" scoped>
 .table-bordered>thead>tr>th,
@@ -127,5 +128,4 @@ export default {
 .table-bordered>tfoot>tr>td {
     text-align: center !important;
 }
-
 </style>

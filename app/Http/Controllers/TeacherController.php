@@ -28,6 +28,9 @@ class TeacherController extends Controller
 
     public function courses()
     {
+        if (!isset(auth()->user()->teacher->id)) {
+            return back()->with('message', ['success', __("No tiene cursos asociados ya que no es profesor...")]);
+        }
         $courses = Course::withCount('students')
             ->with('category', 'reviews')
             ->whereTeacherId(auth()->user()->teacher->id)

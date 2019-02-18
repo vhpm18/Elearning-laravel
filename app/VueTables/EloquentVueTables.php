@@ -43,7 +43,7 @@ class EloquentVueTables implements VueTablesInterface
     {
         return $data->where(function ($q) use ($queries) {
             foreach ($queries as $field => $query) {
-                dd($query);
+
                 if (is_string($query) && $field !== "status") {
                     $q->where($field, 'LIKE', "%{$query}%");
                 } else {

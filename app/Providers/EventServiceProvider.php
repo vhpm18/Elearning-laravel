@@ -2,8 +2,8 @@
 
 namespace App\Providers;
 
-use Illuminate\Support\Facades\Event;
 use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
+use Illuminate\Support\Facades\Event;
 
 class EventServiceProvider extends ServiceProvider
 {
@@ -13,8 +13,17 @@ class EventServiceProvider extends ServiceProvider
      * @var array
      */
     protected $listen = [
-        'App\Events\Event' => [
-            'App\Listeners\EventListener',
+        'App\Events\CourseWasCreated'              => [
+            'App\Listeners\CourseNotificationCreated',
+        ],
+        'App\Events\AdminCurseStatusMessage'       => [
+            'App\Listeners\CourseNotificationApproved',
+        ],
+        'App\Events\AdminCurseStatusRejectMessage' => [
+            'App\Listeners\CourseNotificationRejected',
+        ],
+        'App\Events\SendMessageUser'               => [
+            'App\Listeners\SendMessageNotificationUser',
         ],
     ];
 

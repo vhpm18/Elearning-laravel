@@ -5,8 +5,9 @@ namespace App\Http\Controllers;
 use App\Entities\Course;
 use App\Entities\Review;
 use App\Entities\User;
+use App\Events\CourseWasCreated;
 use App\Http\Requests\CourseRequest;
-use App\Mail\NewStudentInCourse;
+use Event;
 
 class CourseController extends Controller
 {
@@ -40,10 +41,8 @@ class CourseController extends Controller
 
     public function inscribe( ? Course $course)
     {
-        //return new NewStudentInCourse($course, "admin");
         $course->students()->attach(auth()->user()->id);
-        return new NewStudentInCourse($course, "admin");
-        //\Mail::to($course->teacher->user)->send(new NewStudentInCourse($course, auth()->user()->name));
+        event(new CourseWasCreated($course, auth()->user()->name));
         return back()->with('message', ['success', __("Inscrito correctamente en el curso...")]);
     }
 

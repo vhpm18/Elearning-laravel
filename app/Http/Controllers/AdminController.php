@@ -5,9 +5,9 @@ namespace App\Http\Controllers;
 use App\Entities\Course;
 use App\Entities\Teacher;
 use App\Entities\User;
-use App\Mail\CourseApproved;
-use App\Mail\CourseRejected;
-use App\Mail\MessageToStudent;
+use App\Events\AdminCurseStatusMessage;
+use App\Events\AdminCurseStatusRejectMessage;
+use App\Events\SendMessageUser;
 use App\VueTables\EloquentVueTables;
 
 class AdminController extends Controller
@@ -35,24 +35,26 @@ class AdminController extends Controller
                 !$course->previous_approved &&
                 \request('status') === Course::PUBLISHED
             ) {
-                $course->previous_approved = true;
                 // return new CourseApproved($course);
-                \Mail::to($course->teacher->user)->send(new CourseApproved($course));
+                //  $course->previous_approved = true;
+                //dd('PUBLISHED');
+                event(new AdminCurseStatusMessage($course));
             }
             if (
                 (int) $course->status !== Course::REJECTED &&
                 !$course->previous_rejected &&
                 \request('status') === Course::REJECTED
             ) {
-                $course->previous_rejected = true;
+                //$course->previous_rejected = true;
                 //return new CourseRejected($course);
-                \Mail::to($course->teacher->user)->send(new CourseRejected($course));
+                //dd('REJECTED');
+                event(new AdminCurseStatusRejectMessage($course));
             }
             $course->status = \request('status');
             $course->save();
-            return reponse()->json(['msj' => 'ok']);
-            return abort(401, __("No puedes acceder a está url"));
+            return response()->json(['msj' => 'ok']);
         }
+        return abort(401, __("No puedes acceder a está url"));
     }
 
     public function students()
@@ -94,7 +96,9 @@ class AdminController extends Controller
                 $user = User::with('teacher')->findOrfail(\request('user_id'));
             }
             try {
-                \Mail::to($user)->send(new MessageToStudent(auth()->user()->name, \request('message')));
+                $message = \request('message');
+                event(new SendMessageUser($user, auth()->user()->name, $message));
+                //\Mail::to($user)->send(new MessageToStudent(auth()->user()->name, \request('message')));
                 $success = true;
             } catch (Exception $e) {
                 $success = false;

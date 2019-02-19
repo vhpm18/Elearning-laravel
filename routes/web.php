@@ -1,4 +1,9 @@
 <?php
+// Route::get('job', function () {
+//     dispatch(new App\Jobs\SendEmailToInscribe);
+//     return "listo!";
+// });
+
 Route::get('/images/{path}/{attachment}', function ($path, $attachment) {
     $file = sprintf('storage/%s/%s', $path, $attachment);
     if (File::exists($file)) {
